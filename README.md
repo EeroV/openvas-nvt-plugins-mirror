@@ -1,4 +1,1 @@
-# openvas-nvt-plugins-mirror
-
-Just mirror of openvas-nvt plugins to do faster initial sync. not updated. (..)
-
+Just non updated mirror of openvas-nvt, cert and scap data to speedup initial rsync process. Not updated.
